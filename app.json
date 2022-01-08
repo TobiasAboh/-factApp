@@ -4,7 +4,7 @@
     "slug": "t0b1a5123",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/brain.jpg",
+    "icon": "./assets/brain.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
